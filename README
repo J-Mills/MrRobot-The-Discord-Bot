@@ -1,0 +1,18 @@
+MR ROBOT
+
+Basic Discord Bot
+
+Current functions;
+
+- Will reply to things like "Hi" and tells people off for swearing
+- !coinflip - will flip for heads or tails
+- !ping - replies "pong!" for checking if the bot is alive
+- !ayylmao - memes
+
+Planned/Unfinished;
+
+- DnD dice rolling
+- Listing commands
+- Welcoming people to the server
+- Recording uptime
+- Noticing the prefix and saying if it's not a command
